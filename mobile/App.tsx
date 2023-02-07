@@ -25,7 +25,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>Hello World</Text>
+      <Text style={styles.text}>Hello World!</Text>
       <Text style={styles.text}>iOS and Android Test</Text>
       <StatusBar barStyle="light-content" backgroundColor="transparent" translucent />
     </View>
